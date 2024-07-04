@@ -6,7 +6,7 @@ public class ShapeMain {
 		// TODO Auto-generated method stub
 		
 		
-		Circle circle = new Circle(5.0);
+	Circle circle = new Circle(5.0);
         Square square = new Square(4.0);
         Triangle triangle = new Triangle(3.0, 6.0);
 
